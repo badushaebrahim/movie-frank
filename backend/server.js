@@ -367,6 +367,25 @@ app.get("/get-product", (req, res) => {
 
 });
 
+
+app.post('/addmovie',(req,res)=>{
+
+    
+})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 app.listen(2000, () => {
     console.log("Server is Runing On port 2000");
 });
